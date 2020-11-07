@@ -1,4 +1,4 @@
-## pagina para reconocer mascarilla
+## pagina para reconocer si usa mascarilla
 
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
