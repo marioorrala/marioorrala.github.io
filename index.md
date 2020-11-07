@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## pagina para reconocer mascarilla
 
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
